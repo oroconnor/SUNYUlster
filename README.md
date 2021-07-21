@@ -15,7 +15,7 @@ Learning Objectives: \
 -practice creating an R package 
 
 Deliverables: \
--proof of completion of the three Datacamp courses \ 
+-proof of completion of the three Datacamp courses  
 -documentation (in Github) that I have followed through on my goals for Github actions \
 -final project proposal \
 -final project 

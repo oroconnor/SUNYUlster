@@ -3,7 +3,8 @@
 
 Professor Sheehan,
 
-I've uploaded a proposed study plan for this independent study. It's a little heavy on the reading and guided online learning, and a little light on programming assigments right now. However, my intention is a do a programming heavy final project, probably involving making a simple package in R. I'm open to other assignments or deliverables as you see appropriate, though I think this is a good start. 
+I've uploaded a proposed study plan for this independent study. It's a little heavy on the reading and guided online learning, and a little light on programming assigments right now. However, my intention is a do a programming heavy final project, probably involving making a simple package in R. I'm open to other assignments or deliverables as you see appropriate, though I think this is a good start. Here's the link: 
+https://github.com/oroconnor/SUNYUlster/blob/main/StudyProposal.pdf
 
 The data group that I am doing volunteer work at Bard is setting up a github repository right now, so it may be that I have relevant things to collaborate on this Fall and stretch myself with Github skills. However, I will make contrived examples if I need to in order to better practice going through the motions of using Git and Github functionally with good commmunciation practices. 
 

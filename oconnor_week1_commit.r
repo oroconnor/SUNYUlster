@@ -10,3 +10,6 @@
 # try directly from RStudio, the IDE that I use for programming in R.
 
 # Let's see how it goes!
+
+# After successfully making the commit from the terminal yesterday, I am now trying 
+# to alter this document and make a commit from the RStudio IDE. 

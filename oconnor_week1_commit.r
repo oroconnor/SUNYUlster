@@ -16,3 +16,4 @@
 # to alter this document and make a commit from the RStudio IDE. 
 
 print("Hello, Merge Conflict") 
+

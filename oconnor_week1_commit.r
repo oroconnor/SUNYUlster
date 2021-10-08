@@ -1,3 +1,4 @@
+
 # Owen O'Connor
 # Independent Study - Software Development Practices
 
@@ -13,3 +14,5 @@
 
 # After successfully making the commit from the terminal yesterday, I am now trying 
 # to alter this document and make a commit from the RStudio IDE. 
+
+print("Hello, Merge Conflict") 
